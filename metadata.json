@@ -1,0 +1,6 @@
+{
+  "name": "Pendência Projetista",
+  "description": "Aplicativo Android para projetistas registrarem pendências técnicas com fotos, cotas manuais na imagem, áudio, lembretes programados e compartilhamento via WhatsApp.",
+  "requestFramePermissions": ["CAMERA", "RECORD_AUDIO"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
